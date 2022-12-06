@@ -2,6 +2,7 @@
   "main" : "node_modules/expo/AppEntry.js",
   "name" : "component-native",
   "private" : true,
+  "homepage" : "/foundation.react-native",
   "scripts" : {
     "start" : "expo start",
     "android" : "expo start --android",

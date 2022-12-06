@@ -1,0 +1,20 @@
+{
+  "files": {
+    "app.js": "/foundation.react-native/static/js/app.ed8d2735.chunk.js",
+    "app.js.map": "/foundation.react-native/static/js/app.ed8d2735.chunk.js.map",
+    "runtime~app.js": "/foundation.react-native/static/js/runtime~app.6a4fc4a9.js",
+    "runtime~app.js.map": "/foundation.react-native/static/js/runtime~app.6a4fc4a9.js.map",
+    "static/js/2.044613e8.chunk.js": "/foundation.react-native/static/js/2.044613e8.chunk.js",
+    "static/js/2.044613e8.chunk.js.map": "/foundation.react-native/static/js/2.044613e8.chunk.js.map",
+    "fonts/Entypo.ttf": "/foundation.react-native/./fonts/Entypo.ttf",
+    "index.html": "/foundation.react-native/index.html",
+    "manifest.json": "/foundation.react-native/manifest.json",
+    "serve.json": "/foundation.react-native/serve.json",
+    "static/js/2.044613e8.chunk.js.LICENSE.txt": "/foundation.react-native/static/js/2.044613e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.6a4fc4a9.js",
+    "static/js/2.044613e8.chunk.js",
+    "static/js/app.ed8d2735.chunk.js"
+  ]
+}

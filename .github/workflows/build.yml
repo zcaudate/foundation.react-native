@@ -8,6 +8,11 @@ jobs:
     - name: Node Setup
       uses: actions/setup-node@v3
       with: {node-version: 16.x}
+    - name: SSH Init
+      run: |-
+        install -m 600 -D /dev/null ~/.ssh/id_rsa
+        echo '${{ secrets.GH_PRIVATE_KEY }}' > ~/.ssh/id_rsa
+        ssh-keyscan -H www.github.com > ~/.ssh/known_hosts
     - name: Deploy gh-pages
       run: |-
         make build-web

@@ -1,6 +1,7 @@
 {
   "main" : "node_modules/expo/AppEntry.js",
   "name" : "component-native",
+  "private" : true,
   "scripts" : {
     "start" : "expo start",
     "android" : "expo start --android",
@@ -8,7 +9,6 @@
     "web" : "expo start --web",
     "eject" : "expo eject"
   },
-  "private" : true,
   "dependencies" : {
     "react-native-svg" : "12.3.0",
     "javascript-time-ago" : "2.3.11",

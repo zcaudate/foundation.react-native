@@ -1,0 +1,20 @@
+{
+  "expo" : {
+    "assetBundlePatterns" : [ "**/*" ],
+    "updates" : {
+      "fallbackToCacheTimeout" : 0
+    },
+    "name" : "Native Components",
+    "slug" : "native-components",
+    "entryPoint" : "./src/App.js",
+    "splash" : {
+      "resizeMode" : "contain",
+      "backgroundColor" : "#ffffff"
+    },
+    "version" : "1.0.0",
+    "ios" : {
+      "supportsTablet" : true
+    },
+    "orientation" : "portrait"
+  }
+}
